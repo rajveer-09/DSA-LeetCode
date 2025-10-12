@@ -1,0 +1,42 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# C++ build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Java build directories
+/bin/
+/target/
+/*.class
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS system files
+.DS_Store
+
+# Linux temporary files
+*~
